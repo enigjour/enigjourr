@@ -15,6 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "enigjour": "^1.0.1",
+    "enigjouro": "^1.0.2",
     "sappom": "^1.0.1"
   }
 }
